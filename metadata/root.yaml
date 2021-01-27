@@ -1,22 +1,9 @@
-kaptain:
-  display_name: Kaptain
-  description: Kaptain
-  logo: kaptain/logo.svg
-  category: Machine Learning
-  overview: kaptain/overview.md
-  resources:
-    links:
-      - type: resources
-        title: Documentation
-        link: https://docs.d2iq.com/ksphere/kubeflow/
-      - type: support
-        title: Submit a Support Request
-        link: https://d2iq.com/services-and-support
+---
 knative:
-  display_name: Knative
-  description: Knative
+  display_name: knative
+  description: knative
   logo: knative/logo.svg
-  category: Serverless
+  category: other
   overview: knative/overview.md
   resources:
     links:
@@ -26,12 +13,13 @@ knative:
       - type: support
         title: Submit a Support Request
         link: https://d2iq.com/services-and-support
-kubeflow-nfs:
-  display_name: NFS Server Provisioner
-  description: NFS Server Provisioner
-  logo: kubeflow-nfs/logo.svg
-  category: Storage
-  overview: kubeflow-nfs/overview.md
+---
+kubeflow-nfsserverprovisioner:
+  display_name: kubeflow-nfsserverprovisioner
+  description: kubeflow-nfsserverprovisioner
+  logo: kubeflow-nfsserverprovisioner/logo.svg
+  category: other
+  overview: kubeflow-nfsserverprovisioner/overview.md
   resources:
     links:
       - type: resources
